@@ -1,0 +1,1 @@
+{"isDarkAppearanceEnabled":false,"isSystemAppearanceEnabled":true,"name":"Jitterbug Icon Pack (for Xiaomi)","packageName":"com.vidiill.jbicons.xiaomi","scaleFactor":"1.0","slogan":"An icon pack made for xiaomi","versionCode":"1","versionName":"1.0.0"}
